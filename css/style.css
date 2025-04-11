@@ -402,11 +402,11 @@ span {
     font-size: 5rem;
   }
   .home-img img {
-    width: 70vw;
+    width: 60vw;
     height: 40vh;
   }
   .home-img {
-    width: 70vw;
+    width: 60vw;
     height: 42vh;
     margin-top: 4rem;
   }
@@ -414,12 +414,12 @@ span {
     flex-direction: column-reverse;
   }
   .about-img {
-    width: 70vw;
+    width: 60vw;
     height: 42vh;
     margin-top: 4rem;
   }
   .about-img img {
-    width: 70vw;
+    width: 60vw;
     height: 40vh;
   }
   .services h2 {
@@ -432,7 +432,7 @@ span {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 617px) {
   .portfoilio-container {
     grid-template-columns: 1fr;
   }
