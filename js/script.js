@@ -49,7 +49,7 @@ ScrollReveal().reveal(".home-content h1,.about-img", { origin: "left" });
 ScrollReveal().reveal(".home-content p,.about-content", { origin: "top" });
 //typed
 const typed = new Typed(".multiple-text", {
-  strings: ["Frontend Developer", "SoftwareEngineering"],
+  strings: ["Full-Stack Web Developer", "SoftwareEngineering"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
